@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctos Appontment 2",
+      "day": "May 5th",
+      "reminder": true
+    },
+    {
+      "text": "Vic roads",
+      "day": "2 may",
+      "reminder": true,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
